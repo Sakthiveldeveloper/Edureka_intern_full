@@ -1,0 +1,19 @@
+body{
+    background-image: url(Banner.png);
+    background-color:palevioletred;
+    background-size:1050px 650px;
+    background-repeat: no-repeat;
+}
+h1{
+    color:orange
+}
+h2{
+    color:yellow
+}
+#head2{
+    color:darkslategray
+}
+
+.para{
+    color:orchid
+}
